@@ -24,6 +24,7 @@ Files:
 In the task, the project had 4 stages of development, the final version of the work was immediately demonstrated in the repository.
 
 But for a better exchange of work, let's look at all parts of the task:
+
 The description of each part of the task consists of an introduction and objectives.
 
 ### Stage 1/4: Card anatomy
@@ -41,7 +42,9 @@ and they might look different in the near future.
 
 Let's take a look at the anatomy of a credit card:
 
-<img src="credit_card.png"/>
+<p align="center" width="100%">
+    <img src="credit_card.png"> 
+</p>
 
 The very first digit is the **Major Industry Identifier (MII)**,
 which tells you what sort of institution issued the card.
