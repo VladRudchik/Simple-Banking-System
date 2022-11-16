@@ -3,7 +3,7 @@ Creating a simple banking system using Python and SQL.
 
 This repository is a demonstration of my solution to the final project of the Simple Banking System course by Hyperskill (JetBrains Academy).
 
-The main objective of this project is to show that I have the basic skills of pure Python and SQL.
+The main objective of this project is to show that I have the basic knowledge of Python and SQL.
 
 ## Contents
 
@@ -21,9 +21,9 @@ Files:
 
 ## Formulation of the problem
 
-In the task, the project had 4 stages of development, the final version of the work was immediately demonstrated in the repository.
+In the task, the project had 4 stages of development, the final version of my work is shown in the repository.
 
-But for a better exchange of work, let's look at all parts of the task:
+But for a better understanding of work, let's look at all parts of the task:
 
 The description of each part of the task consists of an introduction and objectives.
 
